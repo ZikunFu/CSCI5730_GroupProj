@@ -1,6 +1,0 @@
-Subject,Gender,PEDFE_code,Type,Emotion,Hit rate Emotion (%),Hit rate Typo (%),Mean_Genuineness,SD_Genuineness,Mean_Intensity,SD_Intensity,Duration(s)
-1,F,1_dg_1,Genuine,Disgust,78.79,66.67,2.12,3.59,2.94,2.00,3.837
-1,F,1_ds_1,Posed,Disgust,100.00,36.36,1.09,4.31,4.67,2.09,3.370
-2,M,2_dg_1,Genuine,Disgust,85.19,51.85,-0.19,4.07,4.96,2.47,2.669
-3,F,3_ds_3,Posed,Disgust,65.22,43.47,0.64,3.98,4.00,2.05,2.736
-4,M,4_dg_1,Genuine,Disgust,90.91,87.88,2.82,3.36,4.70,2.05,3.203
