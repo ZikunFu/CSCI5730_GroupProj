@@ -13,7 +13,7 @@
 2. How do genuineness, intensity, and hit rate correlate with the emotion classification accuracy, and are these correlations consistent between genuine and posed emotional expressions?
 
 ## Methodology
-1. **Data Preparation**: Utilize the [PEDFE dataset](https://link.springer.com/article/10.3758/s13428-022-01914-4)t for the analysis. 
+1. **Data Preparation**: Utilize the [PEDFE dataset](https://link.springer.com/article/10.3758/s13428-022-01914-4) for the analysis. 
 2. **Feature Extraction**: Use [Py-Feat](https://py-feat.org/pages/intro.html) for extracting relevant features from the dataset. 
 3. **Emotion Classification**: [Apply classification models](https://github.com/ZikunFu/CSCI5730_GroupProj/blob/master/Pyfeat.ipynb) to identify patterns and distinctions in facial emotions. 
 4. **Result Analysis**: [Evaluate](https://github.com/ZikunFu/CSCI5730_GroupProj/blob/master/Analysis.ipynb) the classifier's performance and analyze the distinctions between genuine and posed expressions. 
