@@ -28,6 +28,7 @@ To set up the project environment and run the notebooks, follow these steps:
 git clone https://github.com/ZikunFu/CSCI5730_GroupProj.git
 cd CSCI5730_GroupProj
 pip install -r requirements.txt
+```
 
 ## Credits
 1. Miolla, Alessio, Matteo Cardaioli, and Cristina Scarpazza. "Padova Emotional Dataset of Facial Expressions (PEDFE): A unique dataset of genuine and posed emotional facial expressions." Behavior Research Methods 55.5 (2023): 2559-2574.
