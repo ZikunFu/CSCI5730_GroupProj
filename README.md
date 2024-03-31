@@ -18,10 +18,13 @@
 3. **Emotion Classification**: [Apply classification models](https://github.com/ZikunFu/CSCI5730_GroupProj/blob/master/Pyfeat.ipynb) to identify patterns and distinctions in facial emotions. 
 4. **Result Analysis**: [Evaluate](https://github.com/ZikunFu/CSCI5730_GroupProj/blob/master/Analysis.ipynb) the classifier's performance and analyze the distinctions between genuine and posed expressions. 
 
-## Ipynb Description
-- `Pyfeat.ipynb`: Notebook used for feature extraction with Py-Feat.
-- `Analysis.ipynb`: Notebook used for emotion classification and result analysis.
-
+## File Description
+- `Pyfeat.ipynb`: Notebook used for feature extraction and emotion classification with Py-Feat.
+- `Analysis.ipynb`: Notebook used for data processing and result analysis.
+- `/data`:
+  - `PEDFE_set_clips`: Contains modified video clips from the Padova Emotional Dataset of Facial Expressions (PEDFE), used for emotion analysis.
+  - `Supplemental_Material_T1.csv`: Provides labels for the clips including information about the genuineness or type of emotion expressed.
+  - `combined_results.csv`: Aggregated classification results, including mean scores of detected emotions for each video clips.
 ## Installation
 To set up the project environment and run the notebooks, follow these steps:
 ```bash
